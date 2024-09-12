@@ -5,10 +5,11 @@ Clone the project
   git clone https://github.com/Zafir258/AWAK_-Web-login-page.git
 Go to the project directory
 
-Install dependencies
-
 Go to VS code 
 Open the terminal 
+npm install 
+npm init -y
+npm install express body-parser
 Write command nodejs backend/index.js
 Open the borwser & paste the github link
 
