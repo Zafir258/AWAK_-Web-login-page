@@ -3,6 +3,7 @@ To Run Locally
 Clone the project
 
   git clone https://github.com/Zafir258/AWAK_-Web-login-page.git
+  
 Go to the project directory
 
 Go to VS code 
