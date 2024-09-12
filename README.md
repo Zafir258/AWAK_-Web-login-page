@@ -8,10 +8,13 @@ Go to the project directory
 Go to VS code 
 Open the terminal 
 npm install 
+
 npm init -y
 npm install express body-parser
-Write command nodejs backend/index.js
-Open the borwser & paste the github link
+
+
+Write command node.js backend/index.js
+Open the browser & paste your file path link
 
 
 This is the login page.
